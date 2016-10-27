@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1002731516360",
+    "firebase_url": "https://testiculo-83e2f.firebaseio.com",
+    "project_id": "testiculo-83e2f",
+    "storage_bucket": "testiculo-83e2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002731516360:android:3e74e31aa0b815c7",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002731516360-aubob102smcsm72sohj2tvdschsi3ph4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delaroystudios.googlelogin",
+            "certificate_hash": "83C94F671C93865A78C726D791660FBF0196EB56"
+          }
+        },
+        {
+          "client_id": "1002731516360-ltc8sh1clnmva63bfi8t0add4c51jqc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtlfaiGuZZOR_G0a8vBYqRjmdG_xfuKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002731516360-ltc8sh1clnmva63bfi8t0add4c51jqc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
